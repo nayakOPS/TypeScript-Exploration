@@ -1,0 +1,4 @@
+What TypeScript does : Static Checking , staticly check our code at run time wehn coding in IDE the IDE checks for any run time error , but this cant be achieve in JavaScript
+Analyze the code as we type.That's it
+
+TS is not just a standalone langiage . It's a development tool. Your  project stills runs JavaScript
