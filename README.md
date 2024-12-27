@@ -15,15 +15,8 @@ This repository showcases my hands-on learning journey with TypeScript. It inclu
 - Learn how to use TypeScript for safer and more efficient JavaScript development.
 - Build small TypeScript projects to reinforce concepts and practice coding.
 
-## How to Use
-
-1. Clone this repository to your local machine.
-2. Navigate to the specific folder (e.g., `01intro` or `02_basics`) to find TypeScript examples and exercises.
-3. Run the `.ts` files using a TypeScript compiler or in your preferred TypeScript environment.
-
 ## Technologies Used
 
 - TypeScript
 - JavaScript
 
-Feel free to contribute or fork this repo to further your TypeScript knowledge!
